@@ -1,0 +1,43 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -11px;
+    border: outset;
+    margin-right: -16px;
+
+}
+#total{
+    color: green;
+}
+
+.produit{
+    display: flex;
+    justify-content: space-between;
+}
+.parti1{
+    display: flex;
+    margin-right: 30px;
+}
+.like svg{
+    width: 20px;
+    height: 20px;
+    }
+    .product{
+        display: flex;
+    }
+.product img{
+    width: 110px;
+    height: 110px;
+}
+.product p{
+    margin-top: 40px;font-size: 25px;
+}
+.remove img{
+    
+        width: 20px;
+        height: 20px;
+        
+}
+.broder{
+    border-top: double;    
+}
